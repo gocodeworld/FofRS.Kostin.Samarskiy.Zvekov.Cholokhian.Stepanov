@@ -1,1 +1,11 @@
-# FofRS.Kostin.Samarskiy.Zvekov.Cholokhian.Stepanov
+# Залив Петра
+
+Десятидневный путеводитель по Владивостоку и Приморскому краю.
+
+Открыть: `index.html` или
+
+```bash
+python3 -m http.server 8765
+```
+
+Карта на главной, под ней список из 10 дней. Каждый день — отдельная страница `day-01.html` … `day-10.html`.
